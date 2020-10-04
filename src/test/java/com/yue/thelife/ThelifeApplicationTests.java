@@ -23,7 +23,7 @@ public class ThelifeApplicationTests {
     @Test
     public void test0() {
 //        http://api.map.baidu.com/geocoding/v3/?address=北京市海淀区上地十街10号&output=json&ak=您的ak&callback=showLocation //GET请求
-        String address = "北京市海淀区上地十街10号";
+        String address = "齐齐哈尔市泰来县";
         String output = "json";
         String ak = "XSpSgFpfDC5ZMUq6cojw3XqpFa8VGmDF";
         String params = "address=" + address + "&output=" + output + "&ak=" + ak;
